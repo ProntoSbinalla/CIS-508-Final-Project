@@ -1,0 +1,1 @@
+data/rideshare_kaggle.csv filter=lfs diff=lfs merge=lfs -text
