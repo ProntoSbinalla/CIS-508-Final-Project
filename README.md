@@ -445,15 +445,6 @@ These limitations are discussed in the context of the CIS 508 project rubric, wi
 
 ---
 
-nice this looks clean.
-
-if you want, I can add a **final section in the README** called
-**“Live Demo”** with your deployed Streamlit link included in a professional way.
-
-here’s the exact block you can paste into the README:
-
----
-
 ## Live Demo
 
 The fully deployed Streamlit application for this project is available here:
