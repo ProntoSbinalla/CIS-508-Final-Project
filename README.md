@@ -2,8 +2,6 @@
 
 End to end machine learning project for CIS 508 (Machine Learning in Business) that predicts Uber and Lyft ride prices in Boston, MA and deploys the final model as an interactive Streamlit web app.
 
-The project follows the course final project guideline from problem framing through deployment and documentation. 
-
 ---
 
 ## 1. Business Problem and Objective
